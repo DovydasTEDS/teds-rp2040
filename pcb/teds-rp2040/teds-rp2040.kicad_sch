@@ -9871,7 +9871,7 @@
 	)
 	(symbol
 		(lib_id "Device:Crystal_GND24")
-		(at 247.65 92.71 0)
+		(at 247.65 92.71 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9879,7 +9879,7 @@
 		(dnp no)
 		(uuid "60c784a7-5080-4c95-a010-de0015f7195f")
 		(property "Reference" "Y1"
-			(at 247.65 82.042 0)
+			(at 247.65 103.378 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9887,7 +9887,7 @@
 			)
 		)
 		(property "Value" "12 MHz"
-			(at 247.65 84.582 0)
+			(at 247.65 100.838 0)
 			(effects
 				(font
 					(size 1.27 1.27)
